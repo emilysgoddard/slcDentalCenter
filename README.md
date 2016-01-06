@@ -1,2 +1,2 @@
 # slcDentalCenter
-Re-creating the Salt Lake City Dental Center website (http://www.slcdentalcenter.com), with a focus on responsiveness.
+HTML/CSS and responsiveness practice: recreating the SLC Dental Center homepage (http://www.slcdentalcenter.com/)
