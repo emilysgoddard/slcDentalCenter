@@ -19,8 +19,12 @@
     }
 }
 
+.menuContainer {
+    margin-bottom: 20px;
+}
+
 .logo {
-    display: inline-block;
+    display: inline-block; 
 }
 
 .textMenu {
@@ -47,8 +51,8 @@
 
 .menuText {
     display: inline-block;
-    color: dodgerblue;
-    font-family: sans-serif;
+    color: #005AA3;
+    font-family: "Helvetica";
     font-size: 1.3em;
     margin-top: 6%;
     margin-left: 15px;
@@ -60,6 +64,10 @@
 }
 
 .middlePics {
+    margin: 10px;
+}
+
+.middlePic {
     width: 33%;
     display: inline-block;
 }
