@@ -105,3 +105,10 @@ h1 {
     font-weight: 800;
     text-align: center;
 }
+
+.sub {
+    font-family: "Helvetica";
+    font-size: .85em;
+    text-align: center;
+    color: #404242;
+}
