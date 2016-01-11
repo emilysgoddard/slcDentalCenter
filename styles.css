@@ -114,3 +114,8 @@ h1 {
     color: #404242;
 }
 
+footer {
+    font-family: "Helvetica";
+    font-size: .63em;
+    color: white;
+}
