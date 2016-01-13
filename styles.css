@@ -115,6 +115,8 @@ h1 {
 }
 
 .footerContainer {
+    margin: auto;
+    padding: 10px 25px 10px 25px;
     font-family: "Helvetica";
     font-size: .63em;
     color: white;
